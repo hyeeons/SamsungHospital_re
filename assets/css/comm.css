@@ -2694,10 +2694,6 @@ h2 {
     margin-top: 10px;
   }
 }
-.slick-list.dragging {
-  cursor: pointer !important;
-}
-
 .inner-tit {
   background: #f9fafb;
   font-size: 1.25rem;
