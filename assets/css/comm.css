@@ -2695,7 +2695,7 @@ h2 {
   }
 }
 .slick-list.dragging {
-  cursor: pointer;
+  cursor: pointer !important;
 }
 
 .inner-tit {
