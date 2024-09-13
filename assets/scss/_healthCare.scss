@@ -1,6 +1,7 @@
 // 현정님 건강정보 페이지 scss
 
 //이현정 - main
+@charset "UTF-8";
 
 .healthcare-wrap {
   display: flex;
@@ -830,4 +831,7 @@
       }
     }
   }
+}
+.slick-list.dragging {
+    cursor: pointer;
 }
